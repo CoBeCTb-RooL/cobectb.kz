@@ -1,0 +1,108 @@
+body, html, td, input{
+	padding: 0;
+	margin: 0px;
+	/*background: #d0e6d1;*/
+	font-family: verdana;
+	font-size: 12px;
+}
+
+a:link, a:visited{
+	color: #122a62 ;
+	text-decoration: none;
+	
+}
+a:hover{
+	color: #3668d8;
+}
+
+
+
+
+h1{
+	font-size: 17px;
+	
+}
+
+
+.btn{
+	padding: 2px 15px;
+	font-weight: bold;
+	font-family: tahoma;
+	color: #252525;
+	border: 2px solid #ccc;
+	background: #eee;
+}
+
+.red{
+	border: 2px solid #d9a590;
+	background: #f3ccbd;
+}
+.green{
+	border: 2px solid #90d997;
+	background: #c2f3bd;
+}
+
+
+
+.notice{
+	border: 2px dashed #90d997;
+	background: #ddf3db;
+	padding: 10px 15px ;
+	margin: 2px 20px ;
+	width: 200px;
+}
+.error{
+	border: 2px dashed #d9a590;
+	background: #f1e1da;
+	padding: 10px 15px ;
+	margin: 2px 20px ;
+	width: 200px;
+}
+
+
+
+
+
+.search_input{
+	padding: 3px;
+	border: 2px solid #eee;
+	font-size: 13px;
+}
+
+
+
+
+table td{
+	border: 3px solid #ccc;
+	padding: 3px 6px;
+	background: #eee;
+}
+.header_tr td{
+	background: #eee;
+	
+}
+
+.header_tr td, .header_tr td a:link, .header_tr td a:visited{
+	font-size: 13px; font-weight: bold;
+	
+}
+
+
+
+.pages-div a:link, .pages-div a:visited, .pages-div div{
+	display:block;
+	float:left;
+	padding:2px 6px;
+	margin: 2px;
+	color:#3668d8;
+	text-decoration:none;
+
+}
+.pages-div div{
+	color:#000;
+	text-decoration:underline;
+	font-weight: bold;
+}
+.pages-div a:hover{
+	background-color:#dfe1e3;
+}

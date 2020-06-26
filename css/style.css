@@ -1,0 +1,66 @@
+table{
+	padding: 0;
+	margin: 0;
+	border-collapse: collapse;
+}
+
+body, td{
+	font-family: verdana;
+	
+	font-size: 13px;
+	margin: 0px;
+	padding: 0px;
+}
+.song{
+
+   -moz-border-radius-topleft: 15px;
+   -moz-border-radius-topright: 0px;
+   -moz-border-radius-bottomright: 115px;
+   -moz-border-radius-bottomleft: 0px;
+   font-size: 12px;
+   line-height:17px;
+   border-radius: 15px 0px 115px 0px;
+
+/* text-shadow: 7px 3px 4px #fff;*/
+}
+
+.l{
+/*	height: 15px;*/
+}
+
+
+
+
+.auth-input{
+	font-size: 10px;
+width: 155px; height: 22px; border: 0px solid black;
+
+	
+	
+	margin: 0 0 0 0;
+}
+
+
+#auth-email{
+	padding: 1px 3 1 7px;
+}
+
+
+
+#auth-password{
+	padding: 1px 3 0 7px;
+}
+
+
+
+.medium-input-1{
+	border: 0px solid black; width: 152px; height: 25px; background: url(/images/inputs/medium-input-1.png); padding: 4px 7px;
+}
+
+.medium-input-2{
+	border: 0px solid black; width: 152px; height: 28px; background: url(/images/inputs/medium-input-2.png); padding: 7px 8px;
+}
+
+.medium-input-3{
+	border: 0px solid black; width: 151px; height: 26px; background: url(/images/inputs/medium-input-3.png); padding: 4px 7px;
+}

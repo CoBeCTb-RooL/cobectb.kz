@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ced481b2-4d79-4f97-8bf6-d2654c3a4b0f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/cobectbkz.local.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_documentation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/_plugins/findreplace/fckplugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/_plugins/findreplace/find.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/_plugins/findreplace/find.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/_plugins/findreplace/lang/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/_plugins/findreplace/lang/fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/_plugins/findreplace/lang/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/_plugins/findreplace/replace.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/_plugins/findreplace/replace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/_plugins/samples/fckplugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/adobeair/application.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/adobeair/icons/128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/adobeair/icons/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/adobeair/icons/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/adobeair/icons/48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/adobeair/package.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/adobeair/run.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/adobeair/sample01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/adobeair/sample01_cert.pfx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/afp/fck.afpa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/afp/fck.afpa.code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/afp/sample01.afp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/afp/sample02.afp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/afp/sample03.afp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/afp/sample04.afp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/afp/sampleposteddata.afp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/asp/sample01.asp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/asp/sample02.asp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/asp/sample03.asp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/asp/sample04.asp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/asp/sampleposteddata.asp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/cfm/sample01.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/cfm/sample01_mx.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/cfm/sample02.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/cfm/sample02_mx.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/cfm/sample03.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/cfm/sample03_mx.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/cfm/sample04.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/cfm/sample04_mx.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/cfm/sampleposteddata.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/assets/sample06.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/assets/sample11_frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/assets/sample14.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/assets/sample14.styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/assets/sample15.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/assets/sample16.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/assets/sample16.fla" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/assets/sample16.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/assets/swfobject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/sample01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/sample02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/sample03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/sample04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/sample05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/sample06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/sample07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/sample08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/sample09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/sample10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/sample11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/sample12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/sample13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/sample14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/sample15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/html/sample16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/lasso/sample01.lasso" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/lasso/sample02.lasso" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/lasso/sample03.lasso" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/lasso/sample04.lasso" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/lasso/sampleposteddata.lasso" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/perl/sample01.cgi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/perl/sample02.cgi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/perl/sample03.cgi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/perl/sample04.cgi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/perl/sampleposteddata.cgi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/php/sample01.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/php/sample02.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/php/sample03.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/php/sample04.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/php/sampleposteddata.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/py/sample01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/py/sampleposteddata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/sample.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_samples/sampleslist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_upgrade.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_whatsnew.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/_whatsnew_history.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckcontextmenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckdataprocessor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckdocumentfragment_gecko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckdocumentfragment_ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckdomrange.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckdomrange_gecko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckdomrange_ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckdomrangeiterator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckeditingarea.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckelementpath.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckenterkey.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckevents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckhtmliterator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckicon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckiecleanup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckimagepreloader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckkeystrokehandler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckmenublock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckmenublockpanel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckmenuitem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckpanel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckplugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckspecialcombo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckstyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fcktoolbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fcktoolbarbreak_gecko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fcktoolbarbreak_ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fcktoolbarbutton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fcktoolbarbuttonui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fcktoolbarfontformatcombo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fcktoolbarfontscombo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fcktoolbarfontsizecombo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fcktoolbarpanelbutton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fcktoolbarspecialcombo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fcktoolbarstylecombo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckw3crange.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckxml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckxml_gecko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/classes/fckxml_ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/commandclasses/fck_othercommands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/commandclasses/fckblockquotecommand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/commandclasses/fckcorestylecommand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/commandclasses/fckfitwindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/commandclasses/fckindentcommands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/commandclasses/fckjustifycommands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/commandclasses/fcklistcommands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/commandclasses/fcknamedcommand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/commandclasses/fckpasteplaintextcommand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/commandclasses/fckpastewordcommand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/commandclasses/fckremoveformatcommand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/commandclasses/fckshowblocks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/commandclasses/fckspellcheckcommand_gecko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/commandclasses/fckspellcheckcommand_ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/commandclasses/fckstylecommand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/commandclasses/fcktablecommand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/commandclasses/fcktextcolorcommand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/fckconstants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/fckeditorapi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/fckjscoreextensions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/fckscriptloader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fck_contextmenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fck_gecko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fck_ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fckbrowserinfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fckcodeformatter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fckcommands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fckconfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fckdebug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fckdebug_empty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fckdialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fckdocumentprocessor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fckdomtools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fcklanguagemanager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fcklisthandler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fcklistslib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fckplugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fckregexlib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fckselection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fckselection_gecko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fckselection_ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fckstyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fcktablehandler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fcktablehandler_gecko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fcktablehandler_ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fcktoolbaritems.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fcktoolbarset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fcktools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fcktools_gecko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fcktools_ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fckundo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fckurlparams.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fckxhtml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fckxhtml_gecko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fckxhtml_ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/_source/internals/fckxhtmlentities.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/css/behaviors/disablehandles.htc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/css/behaviors/showtableborders.htc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/css/fck_editorarea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/css/fck_internal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/css/fck_showtableborders_gecko.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/css/images/block_address.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/css/images/block_blockquote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/css/images/block_div.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/css/images/block_h1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/css/images/block_h2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/css/images/block_h3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/css/images/block_h4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/css/images/block_h5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/css/images/block_h6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/css/images/block_p.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/css/images/block_pre.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/css/images/fck_anchor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/css/images/fck_flashlogo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/css/images/fck_hiddenfield.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/css/images/fck_pagebreak.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/css/images/fck_plugin.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/common/fck_dialog_common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/common/fck_dialog_common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/common/images/locked.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/common/images/reset.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/common/images/unlocked.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_about/logo_fckeditor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_about/logo_fredck.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_about/sponsors/spellchecker_net.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_anchor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_checkbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_colorselector.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_div.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_docprops.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_docprops/fck_document_preview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_flash.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_flash/fck_flash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_flash/fck_flash_preview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_hiddenfield.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_image/fck_image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_image/fck_image_preview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_link/fck_link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_listprop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_paste.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_radiobutton.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_replace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_select.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_select/fck_select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_smiley.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_source.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_specialchar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_spellerpages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_spellerpages/spellerpages/blank.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_spellerpages/spellerpages/controlWindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_spellerpages/spellerpages/controls.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellchecker.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellchecker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellchecker.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_spellerpages/spellerpages/spellChecker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_spellerpages/spellerpages/spellchecker.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_spellerpages/spellerpages/spellerStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_spellerpages/spellerpages/wordWindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_tablecell.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_template/images/template1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_template/images/template2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_template/images/template3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_textarea.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dialog/fck_textfield.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dtd/fck_dtd_test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dtd/fck_xhtml10strict.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/dtd/fck_xhtml10transitional.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/fckdebug.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/fckdialog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/fckeditor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/fckeditor.original.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/browser.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/browser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/frmactualfolder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/frmcreatefolder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/frmfolders.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/frmresourceslist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/frmresourcetype.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/frmupload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/ButtonArrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/Folder.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/Folder32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/FolderOpened.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/FolderOpened32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/FolderUp.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/ai.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/avi.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/bmp.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/cs.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/default.icon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/dll.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/doc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/exe.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/fla.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/gif.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/htm.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/html.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/jpg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/js.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/mdb.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/mp3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/pdf.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/png.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/ppt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/rdp.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/swf.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/swt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/txt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/vsd.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/xls.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/xml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/32/zip.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/ai.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/avi.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/bmp.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/cs.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/default.icon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/dll.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/doc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/exe.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/fla.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/gif.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/htm.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/html.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/jpg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/js.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/mdb.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/mp3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/pdf.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/png.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/ppt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/rdp.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/swf.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/swt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/txt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/vsd.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/xls.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/xml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/icons/zip.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/images/spacer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/browser/default/js/fckxml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/asp/basexml.asp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/asp/class_upload.asp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/asp/commands.asp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/asp/config.asp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/asp/connector.asp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/asp/io.asp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/asp/upload.asp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/asp/util.asp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/aspx/config.ascx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/aspx/connector.aspx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/aspx/upload.aspx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/cfm/ImageObject.cfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/cfm/cf5_connector.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/cfm/cf5_upload.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/cfm/cf_basexml.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/cfm/cf_commands.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/cfm/cf_connector.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/cfm/cf_io.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/cfm/cf_upload.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/cfm/cf_util.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/cfm/config.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/cfm/connector.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/cfm/image.cfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/cfm/upload.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/lasso/config.lasso" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/lasso/connector.lasso" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/lasso/upload.lasso" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/perl/basexml.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/perl/commands.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/perl/connector.cgi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/perl/io.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/perl/upload.cgi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/perl/upload_fck.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/perl/util.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/php/basexml.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/php/commands.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/php/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/php/connector.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/php/io.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/php/phpcompat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/php/upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/php/util.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/py/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/py/connector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/py/fckcommands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/py/fckconnector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/py/fckoutput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/py/fckutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/py/htaccess.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/py/upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/py/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/py/zope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/filemanager/connectors/uploadtest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/anchor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/arrow_ltr.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/arrow_rtl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/smiley/msn/angel_smile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/smiley/msn/angry_smile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/smiley/msn/broken_heart.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/smiley/msn/cake.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/smiley/msn/confused_smile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/smiley/msn/cry_smile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/smiley/msn/devil_smile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/smiley/msn/embaressed_smile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/smiley/msn/envelope.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/smiley/msn/heart.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/smiley/msn/kiss.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/smiley/msn/lightbulb.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/smiley/msn/omg_smile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/smiley/msn/regular_smile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/smiley/msn/sad_smile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/smiley/msn/shades_smile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/smiley/msn/teeth_smile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/smiley/msn/thumbs_down.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/smiley/msn/thumbs_up.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/smiley/msn/tounge_smile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/smiley/msn/whatchutalkingabout_smile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/smiley/msn/wink_smile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/images/spacer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/js/fckadobeair.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/js/fckeditorcode_gecko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/js/fckeditorcode_ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/_translationstatus.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/af.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/bn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/bs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/en-au.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/en-ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/en-uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/eo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/et.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/eu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/fo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/fr-ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/gl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/gu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/hi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/km.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/lv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/mn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/ms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/no.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/pt-br.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/sl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/sr-latn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/sr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/lang/zh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/plugins/autogrow/fckplugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/plugins/bbcode/_sample/sample.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/plugins/bbcode/_sample/sample.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/plugins/bbcode/fckplugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/plugins/dragresizetable/fckplugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/plugins/placeholder/fck_placeholder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/plugins/placeholder/fckplugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/plugins/placeholder/lang/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/plugins/placeholder/lang/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/plugins/placeholder/lang/es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/plugins/placeholder/lang/fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/plugins/placeholder/lang/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/plugins/placeholder/lang/pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/plugins/placeholder/placeholder.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/plugins/simplecommands/fckplugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/plugins/tablecommands/fckplugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/_fckviewstrips.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/default/fck_dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/default/fck_dialog_ie6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/default/fck_editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/default/fck_strip.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/default/images/dialog.sides.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/default/images/dialog.sides.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/default/images/dialog.sides.rtl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/default/images/sprites.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/default/images/sprites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/default/images/toolbar.arrowright.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/default/images/toolbar.buttonarrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/default/images/toolbar.collapse.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/default/images/toolbar.end.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/default/images/toolbar.expand.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/default/images/toolbar.separator.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/default/images/toolbar.start.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/office2003/fck_dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/office2003/fck_dialog_ie6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/office2003/fck_editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/office2003/fck_strip.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/office2003/images/dialog.sides.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/office2003/images/dialog.sides.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/office2003/images/dialog.sides.rtl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/office2003/images/sprites.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/office2003/images/sprites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/office2003/images/toolbar.arrowright.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/office2003/images/toolbar.bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/office2003/images/toolbar.buttonarrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/office2003/images/toolbar.collapse.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/office2003/images/toolbar.end.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/office2003/images/toolbar.expand.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/office2003/images/toolbar.separator.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/office2003/images/toolbar.start.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/silver/fck_dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/silver/fck_dialog_ie6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/silver/fck_editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/silver/fck_strip.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/silver/images/dialog.sides.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/silver/images/dialog.sides.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/silver/images/dialog.sides.rtl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/silver/images/sprites.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/silver/images/sprites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/silver/images/toolbar.arrowright.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/silver/images/toolbar.buttonarrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/silver/images/toolbar.buttonbg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/silver/images/toolbar.collapse.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/silver/images/toolbar.end.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/silver/images/toolbar.expand.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/silver/images/toolbar.separator.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/editor/skins/silver/images/toolbar.start.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/fckconfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/fckeditor.afp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/fckeditor.asp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/fckeditor.cfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/fckeditor.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/fckeditor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/fckeditor.lasso" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/fckeditor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/fckeditor.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/fckeditor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/fckeditor_php4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/fckeditor_php5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/fckpackager.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/fckstyles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/fcktemplates.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/fckutils.cfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCKeditor/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_materials/right_nav.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/func.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/pesenki.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/slonik.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/slonne.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/tsop.tya.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/__schedule/schedule.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/__schedule/schedule.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/auth/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/auth/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/auth/images/auth-form-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/auth/images/auth-form-inputs-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/auth/images/auth-greeting-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/auth/images/auth-images.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/comments/comments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/comments/comments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/comments/images/comment-stripe-blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/comments/images/comment-stripe-green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/comments/images/comment-stripe-green2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/comments/images/comment-stripe-maroon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/comments/images/comment-stripe-orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/comments/images/comment-stripe-pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/comments/images/comment-stripe-purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/comments/images/comment-stripe-red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/comments/images/comment-stripe-teal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/comments/images/comment-stripe-yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/comments/images/comments-btns.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/comments/images/go-btn-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/comments/images/textarea-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/comments/images/Копия comments-btns.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/gb/gb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/gb/gb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/reg/images/reg-activate-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/reg/images/reg-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/reg/reg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/reg/reg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/schedule/images/loading-small.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/schedule/images/no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/schedule/images/schedule_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/schedule/images/schedule_corner.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/schedule/images/yes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/schedule/schedule.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/schedule/schedule.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crealog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decide.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dump.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/B.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/CH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/E.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/EE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/F.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/G.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/I.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/IY.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/K.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/L.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/N.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/O.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/P.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/R.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/S.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/SH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/SHYA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/T.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/TS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/U.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/V.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/X.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/YA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/YU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/YY.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/Z.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/ZH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/a_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/b_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/ch_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/d_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/dbl_quote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/dvoetoch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/e_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/ee_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/f_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/g_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/i_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/iy_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/k_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/l_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/m_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/mz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/mz_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/n_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/o_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/p_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/quot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/r_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/ravno.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/s_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/sh_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/shya_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/skobka_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/skobka_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/space.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/t_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/tag_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/tag_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/tire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/ts_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/tz_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/u_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/v_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/vopr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/voskl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/x_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/ya_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/yo_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/yu_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/yy_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/z_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/zapyat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/brick/zh_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/func.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Untitled-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bottom-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dima_kandali.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/drunk_mans.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gb-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/inputs/medium-input-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/inputs/medium-input-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/inputs/medium-input-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/man_walking.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mans.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mans_i_dimon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mans_incom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mans_nose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/personaji.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/right-nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/scissors-hor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/scissors-vert.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/01.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/02.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/03.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/04.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/05.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/06.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/07.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/bandit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/bug.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/fubar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/rock.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/smoke.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/swear.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype_smiles/talk.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/song-bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/song-dots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/song-postpaper-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/song-rulon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/song-stripe-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/song-stripe-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/song-stripe-right1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/song-stripe1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/song-stripe2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/song-top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/songs-back-btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/stereopic-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tashila_v_incom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tashila_v_incom2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/text-mode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/think.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/top_cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tough_stuff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tough_stuff_inf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/trep-white-stripe-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Без-имени-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Копия scissors-hor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Копия scissors-vert.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/datepicker/datepickBasic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/datepicker/jquery.datepick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/datepicker/jquery.datepick.pack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-1.4.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/php.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/_blank.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/cabinet.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/organizer/ajax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/organizer/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/sandbox.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/schedule.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/song.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/songs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template_footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template_header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Копия index.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-15">
+              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.htaccess" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="225" />
+    <option name="y" value="-10" />
+    <option name="width" value="1385" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cobectbkz.local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cobectbkz.local" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\cobectbkz.local\_asd" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ced481b2-4d79-4f97-8bf6-d2654c3a4b0f" name="Default Changelist" comment="" />
+      <created>1593183252732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593183252732</updated>
+      <workItem from="1593183253780" duration="841000" />
+      <workItem from="1593184401716" duration="305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1146000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/template_header.php" />
+    <entry file="file://$PROJECT_DIR$/_asd/.htaccess" />
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="e#89#110#0#HTML" expanded="true" />
+            <element signature="e#287#317#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decide.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

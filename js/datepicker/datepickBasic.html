@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<title>jQuery Datepicker</title>
+<style type="text/css">
+@import "jquery.datepick.css";
+</style>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript" src="jquery.datepick.js"></script>
+<script type="text/javascript">
+$(function() {
+	$('#popupDatepicker').datepick();
+	$('#inlineDatepicker').datepick({onSelect: showDate});
+});
+
+
+(function($) {
+	$.datepick.regional['ru'] = {
+		monthNames: ['Январь','Февраль','Март','Апрель','Май','Июнь',
+		'Июль','Август','Сентябрь','Октябрь','Ноябрь','Декабрь'],
+		monthNamesShort: ['Янв','Фев','Мар','Апр','Май','Июн',
+		'Июл','Авг','Сен','Окт','Ноя','Дек'],
+		dayNames: ['воскресенье','понедельник','вторник','среда','четверг','пятница','суббота'],
+		dayNamesShort: ['вск','пнд','втр','срд','чтв','птн','сбт'],
+		dayNamesMin: ['Вс','Пн','Вт','Ср','Чт','Пт','Сб'],
+		dateFormat: 'dd.mm.yyyy', firstDay: 1,
+		renderer: $.datepick.defaultRenderer,
+		prevText: '&larr; пред',  prevStatus: '',
+		prevJumpText: '&#x3c;&#x3c;', prevJumpStatus: '',
+		nextText: 'след &rarr;', nextStatus: '',
+		nextJumpText: '&#x3e;&#x3e;', nextJumpStatus: '',
+		currentText: 'Сегодня', currentStatus: '',
+		todayText: 'Сегодня', todayStatus: '',
+		clearText: 'Очистить', clearStatus: '',
+		closeText: 'Закрыть', closeStatus: '',
+		yearStatus: '', monthStatus: '',
+		weekText: 'Не', weekStatus: '',
+		dayStatus: 'D, M d', defaultStatus: '',
+		isRTL: false
+	};
+	$.datepick.setDefaults($.datepick.regional['ru']);
+
+	$.datepick._defaults['useMouseWheel']=true
+	$.datepick._defaults['changeMonth']=true
+	
+
+
+})(jQuery);
+
+function showDate(date) {
+	alert('The date chosen is ' + date);
+}
+</script>
+</head>
+<body>
+<h1>jQuery Datepicker</h1>
+<p>This page demonstrates the very basics of the
+	<a href="http://keith-wood.name/datepick.html">jQuery Datepicker plugin</a>.
+	It contains the minimum requirements for using the plugin and
+	can be used as the basis for your own experimentation.</p>
+<p>For more detail see the <a href="http://keith-wood.name/datepickRef.html">documentation reference</a> page.</p>
+<p>A popup datepicker <input type="text" id="popupDatepicker"></p>
+<p>Or inline</p>
+<div id="inlineDatepicker"></div>
+</body>
+</html>

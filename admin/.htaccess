@@ -1,0 +1,8 @@
+ErrorDocument 404 /ru/404.php
+php_value "upload_max_filesize" "120M"
+php_value "post_max_size" "122M"
+php_value "memory_limit" "128M"
+
+
+AddDefaultCharset utf-8
+php_flag magic_quotes_gpc Off
