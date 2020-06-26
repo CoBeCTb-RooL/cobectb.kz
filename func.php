@@ -263,8 +263,12 @@ function getToken()
 function preRottedString($text)
 {	
 $text=str_replace("'", "\'", html_entity_decode($text));
-$text=str_replace('<br />
+    $text=str_replace('<br />
 ', "\\n ", $text);
+
+$text=str_replace("<br />\n", "\\n ", $text);
+$text=str_replace("<br />\r\n", "\\n ", $text);
+
 $text=str_replace('<br>', "\\n ", $text);
 $text=str_replace('<p>', "\\n ", $text);
 $text=str_replace('<p>
