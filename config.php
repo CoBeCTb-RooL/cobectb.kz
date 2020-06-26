@@ -10,10 +10,10 @@ if($_SERVER['SERVER_ADDR'] == '127.0.0.1')
 }
 else
 {
-	$db_login='w5kz_cobectbuser';
-	$db_pass='dkfzvpnrit67nve8';
+	$db_login='p-7456_sosp_user';
+	$db_pass='Jfff27%0amWn6$18';
 	$db_host='localhost';
-	$db_name='w5kz_cobectb';
+	$db_name='p-7456_sosp';
 
 }
 
